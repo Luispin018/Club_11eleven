@@ -29,7 +29,7 @@ const productos = [
   },
     {
     marca: "CLUB ELEVEN",
-    nombre: "Camiseta Local Argentina 2026",
+    nombre: "Camiseta Argentina Local 2026",
     precio: "$60",
     imagen: "Camisetas/Argentina_camiseta.jpg",
     nuevo: true
