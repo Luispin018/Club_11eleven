@@ -36,9 +36,30 @@ const productos = [
   },
       {
     marca: "CLUB ELEVEN",
-    nombre: "Camiseta Argentina Visitante 2026",
+    nombre: "Camiseta Bélgica Local 2026",
     precio: "$60",
-    imagen: "Camisetas/Argentina2da_camiseta.jpg",
+    imagen: "Camisetas/Belgica_camiseta.jpg",
+    nuevo: true
+  },
+        {
+    marca: "CLUB ELEVEN",
+    nombre: "Camiseta Bélgica Visitante 2026",
+    precio: "$60",
+    imagen: "Camisetas/Belgica2da_camiseta.jpg",
+    nuevo: true
+  },
+        {
+    marca: "CLUB ELEVEN",
+    nombre: "Camiseta Japón Local 2026",
+    precio: "$60",
+    imagen: "Camisetas/Japon_camiseta.jpg",
+    nuevo: true
+  },
+        {
+    marca: "CLUB ELEVEN",
+    nombre: "Camiseta Japón Visitante 2026",
+    precio: "$60",
+    imagen: "Camisetas/Japon2da_camiseta.jpg",
     nuevo: true
   },
 ];
