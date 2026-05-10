@@ -1,0 +1,11 @@
+{
+  "name": "eleven-catalog",
+  "version": "1.0.0",
+  "description": "Servidor estático para el catálogo de camisetas Club Eleven.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
