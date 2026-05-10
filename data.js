@@ -38,7 +38,7 @@ const productos = [
     marca: "CLUB ELEVEN",
     nombre: "Camiseta Argentina Visitante 2026",
     precio: "$60",
-    imagen: "Camisetas/Argentina_camiseta.jpg",
+    imagen: "Camisetas/Argentina2da_camiseta.jpg",
     nuevo: true
   },
 ];
