@@ -27,4 +27,11 @@ const productos = [
     imagen: "Camisetas/Espana2da_camiseta.jpg",
     nuevo: true
   },
+    {
+    marca: "CLUB ELEVEN",
+    nombre: "Camiseta Local Argentina 2026",
+    precio: "$60",
+    imagen: "Camisetas/Argentina_camiseta.jpg",
+    nuevo: true
+  },
 ];
